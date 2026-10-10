@@ -65,11 +65,38 @@ Movie-Recommendation-System/
 │   ├── tmdb_5000_movies.csv
 │   └── tmdb_5000_credits.csv
 │
+├── screenshots/
+│   ├── Screenshot 2026-10-10 182345.png
+│   ├── Screenshot 2026-10-10 182409.png
+│   ├── Screenshot 2026-10-10 182504.png
+│   ├── Screenshot 2026-10-10 182516.png
+│   ├── Screenshot 2026-10-10 182531.png
+│   └── Screenshot 2026-10-10 182543.png
+│
 ├── venv/
 │
 ├── app.py
 ├── data_analysis.py
 ├── recommender.py
 ├── cleaned_movies.csv
+├── poster_mapping.csv
 ├── requirements.txt
+├── .gitignore
 └── README.md
+```
+
+
+
+## 📸 Application Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-10-10%20182345.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-10-10%20182409.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-10-10%20182504.png)
+
+![Screenshot 4](screenshots/Screenshot%202026-10-10%20182516.png)
+
+![Screenshot 5](screenshots/Screenshot%202026-10-10%20182531.png)
+
+![Screenshot 6](screenshots/Screenshot%202026-10-10%20182543.png)
